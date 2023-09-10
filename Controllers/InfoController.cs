@@ -25,8 +25,8 @@ namespace HngTask1.Controllers
                 }
 
                 var assembly = System.Reflection.Assembly.GetExecutingAssembly();
-                var codeFileUrl = "https://github.com/your-github-username/your-repo-url/blob/main/InfoController.cs";
-                var sourceCodeUrl = "https://github.com/your-github-username/your-repo-url";
+                var codeFileUrl = "https://github.com/Tope-stack/HngXTask1/blob/master/Controllers/InfoController.cs";
+                var sourceCodeUrl = "https://github.com/Tope-stack/HngXTask1";
 
                 var response = new
                 {
